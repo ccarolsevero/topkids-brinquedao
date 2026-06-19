@@ -4,13 +4,21 @@ Landing page da **Top Kids Brinquedão** — fábrica de brinquedão infantil.
 
 ## Deploy na Vercel
 
-1. Faça push deste repositório para o GitHub
-2. Acesse [vercel.com/new](https://vercel.com/new)
-3. Importe o repositório
-4. Mantenha as configurações padrão (sem build command)
-5. Clique em **Deploy**
+1. Acesse [vercel.com/new](https://vercel.com/new)
+2. Importe o repositório **ccarolsevero/topkids-brinquedao**
+3. Use estas configurações:
 
-O site é estático: o arquivo `index.html` na raiz é a página principal.
+| Campo | Valor |
+|-------|-------|
+| Framework Preset | **Other** |
+| Root Directory | `./` |
+| Build Command | *(deixe vazio)* |
+| Output Directory | *(deixe vazio)* |
+| Install Command | *(deixe vazio)* |
+
+4. Clique em **Deploy**
+
+Não é necessário `vercel.json` — o site é estático (`index.html` na raiz).
 
 ## Desenvolvimento local
 

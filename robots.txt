@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://topkids-brinquedao.vercel.app/sitemap.xml
+Sitemap: https://www.topkidsbrinquedao.com.br/sitemap.xml
